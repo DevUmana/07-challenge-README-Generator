@@ -34,6 +34,9 @@ README.md Generated
 
 The generated file will be stored in the out folder
 
+Application Walkthrough
+[https://watch.screencastify.com/v/odm8HZJBpTwLH2CG2KHe](https://watch.screencastify.com/v/odm8HZJBpTwLH2CG2KHe)
+
 ## License
 
 MIT License
